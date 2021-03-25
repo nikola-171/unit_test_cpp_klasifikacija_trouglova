@@ -1,7 +1,6 @@
 ﻿#include "pch.h"
 #include "CppUnitTest.h"
 #include "../zadatak_trouglovi/trougao.h"
-#include <limits>
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
@@ -87,15 +86,6 @@ namespace UnitTest1Release
 			Assert::AreEqual(-1.0, (trougao(4, 8, 0, kategorija)));
 			Assert::AreEqual(-1, kategorija);
 		}
-
-		TEST_METHOD(TestMethod12)
-		{
-			int kategorija;
-			trougao(10000000000000000.1, 10000000000000000.2, 10000000000000000.3, kategorija);
-			Assert::AreEqual(std::numeric_limits<double>::infinity(), trougao(4, 8, 0, kategorija));
-			//Assert::AreEqual(-1, kategorija);
-		}
-
 
 	};
 }
