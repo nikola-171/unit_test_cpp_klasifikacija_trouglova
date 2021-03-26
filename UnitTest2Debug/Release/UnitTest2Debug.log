@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  UnitTest2Debug.cpp
+     Creating library C:\Users\NikolaTošić\Desktop\TIMS_domaci\domaci\Release\UnitTest2Debug.lib and object C:\Users\NikolaTošić\Desktop\TIMS_domaci\domaci\Release\UnitTest2Debug.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 153 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  UnitTest2Debug.vcxproj -> C:\Users\NikolaTošić\Desktop\TIMS_domaci\domaci\Release\UnitTest2Debug.dll

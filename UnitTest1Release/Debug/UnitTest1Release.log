@@ -1,0 +1,3 @@
+﻿     Creating library C:\Users\NikolaTošić\Desktop\TIMS_domaci\domaci\Debug\UnitTest1Release.lib and object C:\Users\NikolaTošić\Desktop\TIMS_domaci\domaci\Debug\UnitTest1Release.exp
+UnitTest1Release.obj : error LNK2019: unresolved external symbol "double __cdecl trougao(double,double,double,int &)" (?trougao@@YANNNNAAH@Z) referenced in function "public: void __thiscall UnitTest1Release::UnitTest1Release::TestMethod10(void)" (?TestMethod10@UnitTest1Release@1@QAEXXZ)
+C:\Users\NikolaTošić\Desktop\TIMS_domaci\domaci\Debug\UnitTest1Release.dll : fatal error LNK1120: 1 unresolved externals
